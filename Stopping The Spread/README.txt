@@ -1,0 +1,1 @@
+Please only use this folder for items that can be used to keep people from touching potentially infected surfaces.  
